@@ -1,5 +1,5 @@
 :root { /* Utilized for every single page */
-    --accent: #754900;
+    --accent: #215F69;
     --bg: #fff;
     --fg: #444;
     --hover-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.2)
@@ -367,7 +367,7 @@ nav.drawer a,
 } */
 @media only screen and (prefers-color-scheme: dark) {
     :root { /* Utilized for every single page */
-        --accent: #F8D5BF;
+        --accent: #B6E3E7;
         --bg: #444;
         --fg: #fff;
         --hover-shadow: 0 0.5rem 1.5rem rgba(255, 255, 255, 0.2)
