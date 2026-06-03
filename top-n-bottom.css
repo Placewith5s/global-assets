@@ -137,11 +137,11 @@ summary {
 button,
 input,
 select {
+    background: transparent;
     color: var(--fg)
 }
 a {color: var(--accent)}
 button {
-    background: transparent;
     border: 0.15rem solid var(--accent);
     padding-bottom: 1rem;
     padding-left: clamp(2rem, 4vw, 7.5rem);
